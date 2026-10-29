@@ -1,0 +1,3 @@
+User logged out
+ERROR: Server unavailable
+Application stopped
